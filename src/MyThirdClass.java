@@ -7,6 +7,8 @@ public class MyThirdClass {
 
         String str = "Java";
         
+        int z = 33;
+        
         System.out.println("This is remote Repo Code");
 
     }
