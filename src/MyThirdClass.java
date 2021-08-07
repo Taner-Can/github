@@ -4,6 +4,8 @@ public class MyThirdClass {
         int x=5;
         int sum = x + 2;
         System.out.println(sum);
+
+        String str = "Java";
         
         System.out.println("This is remote Repo Code");
 
