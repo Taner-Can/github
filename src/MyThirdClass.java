@@ -5,6 +5,8 @@ public class MyThirdClass {
         int sum = x + 2;
         System.out.println(sum);
         
+        int z = 33;
+        
         System.out.println("This is remote Repo Code");
 
     }
