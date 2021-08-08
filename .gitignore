@@ -1,1 +1,5 @@
+
+ This file is used to hold the classes, that we do not want to commit.
+
   src/LastClass.java
+  .idea/workspace.xml
